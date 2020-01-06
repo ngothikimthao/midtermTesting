@@ -1,0 +1,525 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# Created by nththuy at 1/3/20"
+      }
+    ],
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 10910920200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open website http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+                  "offset": 13
+                }
+              ],
+              "location": "CommonTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Add Customer sucessfully",
+        "description": "",
+        "id": "add-customer;add-customer-sucessfully;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3763950500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I type first name as thuy, last name as nguyen, post code as 55000",
+            "match": {
+              "arguments": [
+                {
+                  "val": "thuy",
+                  "offset": 21
+                },
+                {
+                  "val": "nguyen",
+                  "offset": 40
+                },
+                {
+                  "val": "55000",
+                  "offset": 61
+                }
+              ],
+              "location": "AddCustomerTest.inputUserInformation(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 142182700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click submit",
+            "match": {
+              "location": "AddCustomerTest.clickSubmit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9469231600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify that system is already added customer as thuy nguyen successfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "thuy nguyen",
+                  "offset": 50
+                }
+              ],
+              "location": "AddCustomerTest.verifyCustomerAddSuccessfully(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3045567300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open website http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+                  "offset": 13
+                }
+              ],
+              "location": "CommonTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Add Customer sucessfully",
+        "description": "",
+        "id": "add-customer;add-customer-sucessfully;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3586886800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I type first name as hoa, last name as hong, post code as 55000",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hoa",
+                  "offset": 21
+                },
+                {
+                  "val": "hong",
+                  "offset": 39
+                },
+                {
+                  "val": "55000",
+                  "offset": 58
+                }
+              ],
+              "location": "AddCustomerTest.inputUserInformation(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 121816800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click submit",
+            "match": {
+              "location": "AddCustomerTest.clickSubmit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9359888600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify that system is already added customer as hoa hong successfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hoa hong",
+                  "offset": 50
+                }
+              ],
+              "location": "AddCustomerTest.verifyCustomerAddSuccessfully(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3129063500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open website http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+                  "offset": 13
+                }
+              ],
+              "location": "CommonTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Add Customer unsucessfully",
+        "description": "",
+        "id": "add-customer;add-customer-unsucessfully;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3474141000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I type first name as thuy, last name as null, post code as 55000",
+            "match": {
+              "arguments": [
+                {
+                  "val": "thuy",
+                  "offset": 21
+                },
+                {
+                  "val": "null",
+                  "offset": 40
+                },
+                {
+                  "val": "55000",
+                  "offset": 59
+                }
+              ],
+              "location": "AddCustomerTest.inputUserInformation(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 137299600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click submit",
+            "match": {
+              "location": "AddCustomerTest.clickSubmit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6365212900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I verify that system is already added customer as thuy unsuccessfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "thuy",
+                  "offset": 50
+                }
+              ],
+              "location": "AddCustomerTest.verifyCustomerAddUnSuccessfully(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3040632900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open website http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.way2automation.com/angularjs-protractor/banking/#/manager/addCust",
+                  "offset": 13
+                }
+              ],
+              "location": "CommonTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Add Customer unsucessfully",
+        "description": "",
+        "id": "add-customer;add-customer-unsucessfully;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3399601900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I type first name as null, last name as nguyen, post code as 55000",
+            "match": {
+              "arguments": [
+                {
+                  "val": "null",
+                  "offset": 21
+                },
+                {
+                  "val": "nguyen",
+                  "offset": 40
+                },
+                {
+                  "val": "55000",
+                  "offset": 61
+                }
+              ],
+              "location": "AddCustomerTest.inputUserInformation(String,String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 107743900,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click submit",
+            "match": {
+              "location": "AddCustomerTest.clickSubmit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6294811700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I verify that system is already added customer as nguyen unsuccessfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "nguyen",
+                  "offset": 50
+                }
+              ],
+              "location": "AddCustomerTest.verifyCustomerAddUnSuccessfully(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Add Customer",
+    "description": "In order to store user information, I want to have the adding customer feature so that I can add customer easily",
+    "id": "add-customer",
+    "keyword": "Feature",
+    "uri": "addCustomer.feature"
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# Created by nththuy at 1/3/20"
+      }
+    ],
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8963437200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open website http://www.way2automation.com/angularjs-protractor/banking/#/manager/openAccount",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.way2automation.com/angularjs-protractor/banking/#/manager/openAccount",
+                  "offset": 13
+                }
+              ],
+              "location": "CommonTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Open Account sucessfully",
+        "description": "",
+        "id": "open-account;open-account-sucessfully;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 406920300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I choose account as Harry Potter and currency as Pound",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Harry Potter",
+                  "offset": 20
+                },
+                {
+                  "val": "Pound",
+                  "offset": 49
+                }
+              ],
+              "location": "OpenAccountTest.openAccount(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 97990300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click open account",
+            "match": {
+              "location": "OpenAccountTest.i_click_open_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify that user is already open",
+            "match": {
+              "location": "OpenAccountTest.verifyUserAlreadyOpen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Open Account",
+    "description": "In order to open account, I want to have the adding customer feature so that I can add customer easily",
+    "id": "open-account",
+    "keyword": "Feature",
+    "uri": "openAccount.feature"
+  }
+]

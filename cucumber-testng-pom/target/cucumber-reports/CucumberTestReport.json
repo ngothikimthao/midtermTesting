@@ -1,0 +1,167 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Login travel admin website",
+        "description": "",
+        "id": "login-admin-page;login-travel-admin-website",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6821562300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open website https://www.phptravels.net/admin",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.phptravels.net/admin",
+                  "offset": 13
+                }
+              ],
+              "location": "LoginTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 382814300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I input username as user@phptravels.com and password as demouser",
+            "match": {
+              "arguments": [
+                {
+                  "val": "user@phptravels.com",
+                  "offset": 20
+                },
+                {
+                  "val": "demouser",
+                  "offset": 56
+                }
+              ],
+              "location": "LoginTest.select_first_item(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 121800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click submit",
+            "match": {
+              "location": "LoginTest.select_second_item()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 43100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I verify system navigates to the dashboard page",
+            "match": {
+              "location": "LoginTest.add_new_item()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Login travel admin website",
+        "description": "",
+        "id": "login-admin-page;login-travel-admin-website;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7243336100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Open website https://www.phptravels.net/admin",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.phptravels.net/admin",
+                  "offset": 13
+                }
+              ],
+              "location": "LoginTest.user_already_on_home_page(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 167953300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I input username as user@phptravels.com and password as demouser",
+            "match": {
+              "arguments": [
+                {
+                  "val": "user@phptravels.com",
+                  "offset": 20
+                },
+                {
+                  "val": "demouser",
+                  "offset": 56
+                }
+              ],
+              "location": "LoginTest.select_first_item(String,String)"
+            },
+            "matchedColumns": [
+              1,
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 39800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click submit",
+            "match": {
+              "location": "LoginTest.select_second_item()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 41000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I verify system navigates to the dashboard page",
+            "match": {
+              "location": "LoginTest.add_new_item()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login admin page",
+    "description": "",
+    "id": "login-admin-page",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]

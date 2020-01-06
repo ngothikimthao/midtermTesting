@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99c97cbc-ff36-42c0-8361-be4f9727bdc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VrdV4YmYWprvOQOznyOH22sxWo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Users/thao.ngo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/thao/cucumber-testng-pom/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CucumberTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/thao/cucumber-testng-pom/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99c97cbc-ff36-42c0-8361-be4f9727bdc3" name="Default Changelist" comment="" />
+      <created>1578015167973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578015167973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="147" key="FileChooserDialogImpl" timestamp="1578025661303">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="147" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578025661303" />
+    <state width="1340" height="7" key="GridCell.Tab.0.bottom" timestamp="1578284719040">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="7" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578284719040" />
+    <state width="1340" height="7" key="GridCell.Tab.0.center" timestamp="1578284719039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="7" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578284719039" />
+    <state width="1340" height="7" key="GridCell.Tab.0.left" timestamp="1578284719039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="7" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578284719039" />
+    <state width="1340" height="7" key="GridCell.Tab.0.right" timestamp="1578284719039">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="7" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578284719039" />
+    <state x="465" y="128" key="NewModule_or_Project.wizard" timestamp="1578025666185">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="128" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1578025666185" />
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1578025484894">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578025484894" />
+    <state x="182" y="125" key="new project wizard" timestamp="1578025649954">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="125" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1578025649954" />
+  </component>
+</project>
