@@ -1,0 +1,74 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Login phptravel page",
+        "description": "",
+        "id": "login-page;login-phptravel-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10993053700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open website https://www.phptravels.net/admin",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.phptravels.net/admin",
+                  "offset": 13
+                }
+              ],
+              "location": "CommonTest.user_already_on_home_page(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2411510400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I input email as thaongo@gmail.com and password as kimthao",
+            "match": {
+              "arguments": [
+                {
+                  "val": "thaongo@gmail.com",
+                  "offset": 17
+                },
+                {
+                  "val": "kimthao",
+                  "offset": 51
+                }
+              ],
+              "location": "LoginTest.setUserInformation(String,String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1126364000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click submit",
+            "match": {
+              "location": "LoginTest.clickLoginButton()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login page",
+    "description": "",
+    "id": "login-page",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]

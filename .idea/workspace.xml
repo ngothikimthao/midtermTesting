@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a1a4b07-71d8-4f62-b640-02d11a355c5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W06ngRCoHQTJBJurofulHp05KE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/runner" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\thao\midterm-ngothikimthao\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/thao/midterm-ngothikimthao/test.xml">
+    <configuration name="D:/thao/midterm-ngothikimthao/test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="midterm-ngothikimthao" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.xml" type="TestNG">
+      <module name="midterm-ngothikimthao" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/thao/midterm-ngothikimthao/test.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a1a4b07-71d8-4f62-b640-02d11a355c5d" name="Default Changelist" comment="" />
+      <created>1578274333345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578274333345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="126" width="596" height="732" key="#&lt;default&gt;" timestamp="1578278460442">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="679" y="126" width="596" height="732" key="#&lt;default&gt;/0.0.1600.860@0.0.1600.860" timestamp="1578278460442" />
+    <state x="615" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578276734545">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1578276734545" />
+    <state x="543" y="407" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578279565751">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="543" y="407" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1578279565751" />
+    <state x="757" y="233" key="FileChooserDialogImpl" timestamp="1578278446064">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="757" y="233" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578278446064" />
+    <state width="1557" height="389" key="GridCell.Tab.0.bottom" timestamp="1578282023612">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="389" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578282023612" />
+    <state width="1557" height="389" key="GridCell.Tab.0.center" timestamp="1578282023612">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="389" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578282023612" />
+    <state width="1557" height="389" key="GridCell.Tab.0.left" timestamp="1578282023611">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="389" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578282023611" />
+    <state width="1557" height="389" key="GridCell.Tab.0.right" timestamp="1578282023612">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="389" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578282023612" />
+    <state x="398" y="8" key="SettingsEditor" timestamp="1578276718611">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="398" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578276718611" />
+  </component>
+</project>
